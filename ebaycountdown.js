@@ -1,6 +1,4 @@
 
-
-<script>
         // Countdown timer
         function updateCountdown() {
             const now = new Date();
@@ -28,4 +26,4 @@
                 mainImg.alt = this.alt;
             });
         });
-    </script>
+
